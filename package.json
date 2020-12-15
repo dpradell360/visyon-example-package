@@ -1,0 +1,18 @@
+{
+  "name": "com.visyon.examplepackage",
+  "version": "1.0.0",
+  "displayName": "Visyon Example Package",
+  "description": "This is an example package",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "VISYON",
+    "email": "developers@visyon360.com",
+    "url": "https://visyon360.com/"
+  }
+}
